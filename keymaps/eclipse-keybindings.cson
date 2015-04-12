@@ -1,0 +1,16 @@
+# Common keybindings (all platforms)
+'atom-text-editor:not([mini])':
+  'alt-up': 'editor:move-line-up'
+  'alt-down': 'editor:move-line-down'
+
+# Mac keybindings
+'.platform-darwin atom-text-editor:not([mini])':
+  'cmd-d': 'editor:delete-line'
+  'cmd-shift-f': 'editor:auto-indent'
+  'cmd-l': 'go-to-line:toggle'
+
+# Win & Linux keybindings
+'.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
+  'ctrl-d': 'editor:delete-line'
+  'ctrl-shift-f': 'editor:auto-indent'
+  'ctrl-l': 'go-to-line:toggle'
