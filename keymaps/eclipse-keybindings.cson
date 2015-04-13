@@ -8,9 +8,13 @@
   'cmd-d': 'editor:delete-line'
   'cmd-shift-f': 'editor:auto-indent'
   'cmd-l': 'go-to-line:toggle'
+  'cmd-alt-down': 'editor:duplicate-lines'
+  'cmd-alt-j': 'editor:join-lines'
 
 # Win & Linux keybindings
 '.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
   'ctrl-d': 'editor:delete-line'
   'ctrl-shift-f': 'editor:auto-indent'
   'ctrl-l': 'go-to-line:toggle'
+  'ctrl-alt-down': 'editor:duplicate-lines'
+  'ctrl-alt-j': 'editor:join-lines'
