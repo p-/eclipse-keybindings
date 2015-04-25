@@ -6,15 +6,25 @@
 # Mac keybindings
 '.platform-darwin atom-text-editor:not([mini])':
   'cmd-d': 'editor:delete-line'
-  'cmd-shift-f': 'editor:auto-indent'
+  'cmd-F': 'editor:auto-indent'
   'cmd-l': 'go-to-line:toggle'
   'cmd-alt-down': 'editor:duplicate-lines'
   'cmd-alt-j': 'editor:join-lines'
+  'cmd-o': 'symbols-view:toggle-file-symbols'
+
+'.platform-darwin atom-workspace':
+  'cmd-R': 'fuzzy-finder:toggle-file-finder'
+  'cmd-h': 'project-find:show'
 
 # Win & Linux keybindings
 '.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
   'ctrl-d': 'editor:delete-line'
-  'ctrl-shift-f': 'editor:auto-indent'
+  'ctrl-F': 'editor:auto-indent'
   'ctrl-l': 'go-to-line:toggle'
   'ctrl-alt-down': 'editor:duplicate-lines'
   'ctrl-alt-j': 'editor:join-lines'
+  'ctrl-o': 'symbols-view:toggle-file-symbols'
+
+'.platform-win32 atom-workspace, .platform-linux atom-workspace':
+  'ctrl-R': 'fuzzy-finder:toggle-file-finder'
+  'ctrl-h': 'project-find:show'
