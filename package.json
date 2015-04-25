@@ -1,6 +1,6 @@
 {
   "name": "eclipse-keybindings",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Eclipse editor keybindings for Atom",
   "repository": "https://github.com/p-/eclipse-keybindings",
   "license": "MIT",
