@@ -1,6 +1,6 @@
 {
   "name": "eclipse-keybindings",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Eclipse editor keybindings like Ctrl-Shift-R, Ctrl-L, Alt-Up, ... (Cmd on Mac)",
   "repository": "https://github.com/p-/eclipse-keybindings",
   "license": "MIT",
