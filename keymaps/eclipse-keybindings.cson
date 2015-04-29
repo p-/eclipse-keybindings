@@ -14,7 +14,7 @@
 
 '.platform-darwin atom-workspace':
   'cmd-R': 'fuzzy-finder:toggle-file-finder'
-  'cmd-h': 'project-find:show'
+  'ctrl-h': 'project-find:show'
 
 # Win & Linux keybindings
 '.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':

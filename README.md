@@ -13,7 +13,7 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 
 ### General
 * `Ctrl-Shift-R` Open Resource (Eclipse) / Find File (Atom)
-* `Ctrl-H` Find in Project
+* `Ctrl-H` Find in Project (same on Mac)
 
 ### Source Editor
 * `Ctrl-Shift-F` Format Code (Eclipse) / Auto Indent (Atom)
@@ -31,6 +31,7 @@ These keybindings might conflict with keybindings of other installed Atom packag
 ## Issues / Features
 
 ### Known issues
+* Some actions are also mapped to other keybindings so the eclipse keybinding won't show up next to the menu entry.
 * `Ctrl-D` is also bound to `find-and-replace:select-next`
 * `Ctrl-Shift-/` Toggle Comment is mapped to a different key combination on non-english layouts (see: [Atom Keymap Issue](https://github.com/atom/atom-keymap/issues/37)).
 
