@@ -1,6 +1,6 @@
 # eclipse-keybindings package for Atom
 
-This [Atom](https://atom.io/) package supports some basic [Eclipse IDE](https://eclipse.org/) source editor key mappings. Currently the Eclipse shortcuts are directly mapped to existing Atom commands.
+This [Atom](https://atom.io/) package supports some basic [Eclipse IDE](https://eclipse.org/) key mappings. Currently the Eclipse shortcuts are directly mapped to existing Atom commands.
 
 ## Installing
 
@@ -14,6 +14,7 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 ### General
 * `Ctrl-Shift-R` Open Resource (Eclipse) / Find File (Atom)
 * `Ctrl-H` Find in Project (same on Mac)
+* `Ctrl-E` Quick Switch Editor (Eclipse) / Find in Buffer (Atom)
 
 ### Source Editor
 * `Ctrl-Shift-F` Format Code (Eclipse) / Auto Indent (Atom)

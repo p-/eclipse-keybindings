@@ -1,5 +1,9 @@
 # eclipse-keybindings Changelog
 
+## 0.4.0 - Added Quick Switch Editor
+* binding for 'Quick Switch Editor'
+* unset Atom default Ctrl-O binding
+
 ## 0.3.0 - Added search bindings
 * binding for 'Find File'
 * binding for 'Find in Project'
