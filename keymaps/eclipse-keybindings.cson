@@ -17,11 +17,14 @@
   'cmd-alt-j': 'editor:join-lines'
   'cmd-o': 'symbols-view:toggle-file-symbols'
   'cmd-e': 'fuzzy-finder:toggle-buffer-finder'
+  'cmd-X': 'editor:upper-case'
+  'cmd-Y': 'editor:lower-case'
 
 '.platform-darwin atom-workspace':
   'cmd-R': 'fuzzy-finder:toggle-file-finder'
   'cmd-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-h': 'project-find:show'
+  'cmd-S': 'window:save-all'
 
 # Win & Linux keybindings
 '.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
@@ -32,8 +35,11 @@
   'ctrl-alt-j': 'editor:join-lines'
   'ctrl-o': 'symbols-view:toggle-file-symbols'
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
+  'ctrl-X': 'editor:upper-case'
+  'ctrl-Y': 'editor:lower-case'
 
 '.platform-win32 atom-workspace, .platform-linux atom-workspace':
   'ctrl-R': 'fuzzy-finder:toggle-file-finder'
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-h': 'project-find:show'
+  'ctrl-S': 'window:save-all'

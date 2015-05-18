@@ -1,5 +1,9 @@
 # eclipse-keybindings Changelog
 
+## 0.5.0 - Save all and upper-/lowercase
+* binding for 'Save All'
+* bindings for Upper- and Lowercase
+
 ## 0.4.0 - Added Quick Switch Editor
 * binding for 'Quick Switch Editor'
 * unset Atom default Ctrl-O binding

@@ -13,18 +13,21 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 
 ### General
 * `Ctrl-Shift-R` Open Resource (Eclipse) / Find File (Atom)
+* `Ctrl-Shift-S` Save All
 * `Ctrl-H` Find in Project (same on Mac)
 * `Ctrl-E` Quick Switch Editor (Eclipse) / Find in Buffer (Atom)
 
 ### Source Editor
 * `Ctrl-Shift-F` Format Code (Eclipse) / Auto Indent (Atom)
-* `Alt-Up` Move line Up
-* `Alt-Down` Move line Down
+* `Alt`-:arrow_up_small: Move line Up
+* `Alt`-:arrow_down_small: Move line Down
 * `Ctrl-L` Go to line...
 * `Ctrl-D` Delete line
-* `Ctrl-Alt-Down` Duplicate lines
+* `Ctrl-Alt`-:arrow_down_small: Duplicate lines
 * `Ctrl-Alt-J` Join lines
 * `Ctrl-O` Show Outline (Eclipse) / File Symbols (Atom)
+* `Ctrl-Shift-X` Upper Case
+* `Ctrl-Shift-Y` Lower Case
 * `Ctrl-Shift-/` Toggle Comment (already the Atom default)
 
 These keybindings might conflict with keybindings of other installed Atom packages. (You can find out which ones by using the Keybinding Resolver: `Ctrl-.`)
