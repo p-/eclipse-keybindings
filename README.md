@@ -1,6 +1,6 @@
 # eclipse-keybindings package for Atom
 
-This [Atom](https://atom.io/) package supports some basic [Eclipse IDE](https://eclipse.org/) key mappings. Currently the Eclipse shortcuts are directly mapped to existing Atom commands.
+This [Atom](https://atom.io/) package provides [Eclipse IDE](https://eclipse.org/) key mappings for Atom. Currently the Eclipse shortcuts are directly mapped to existing Atom commands.
 
 ## Installing
 
@@ -14,6 +14,7 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 ### General
 * `Ctrl-Shift-R` Open Resource (Eclipse) / Find File (Atom)
 * `Ctrl-Shift-S` Save All
+* `Ctrl-3` Quick Access (Eclipse) / Command Palette (Atom)
 * `Ctrl-H` Find in Project (same on Mac)
 * `Ctrl-E` Quick Switch Editor (Eclipse) / Find in Buffer (Atom)
 
@@ -40,6 +41,6 @@ These keybindings might conflict with keybindings of other installed Atom packag
 * `Ctrl-Shift-/` Toggle Comment is mapped to a different key combination on non-english layouts (see: [Atom Keymap Issue](https://github.com/atom/atom-keymap/issues/37)).
 
 ### Request features
-If you request a new keybinding please specify which Atom command should be executed when the keys are pressed. The full Atom Command Palette is available by pressing `Ctrl-Shift-P`.
+If you request a new keybinding please specify which Atom command should be executed when the keys are pressed. The full Atom Command Palette is available by pressing `Ctrl-3`.
 
 Please note that Atom might not (yet) have a corresponding functionality for a specific Eclipse command.

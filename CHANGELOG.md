@@ -1,5 +1,8 @@
 # eclipse-keybindings Changelog
 
+## 0.6.0 - Quick Access
+ * binding for Quick Access
+
 ## 0.5.0 - Save all and upper-/lowercase
 * binding for 'Save All'
 * bindings for Upper- and Lowercase

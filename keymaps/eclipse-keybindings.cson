@@ -25,6 +25,11 @@
   'cmd-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-h': 'project-find:show'
   'cmd-S': 'window:save-all'
+  'cmd-3': 'command-palette:toggle'
+
+'.platform-darwin .tree-view:not([mini])':
+  'cmd-3': 'command-palette:toggle'
+
 
 # Win & Linux keybindings
 '.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
@@ -43,3 +48,7 @@
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-h': 'project-find:show'
   'ctrl-S': 'window:save-all'
+  'ctrl-3': 'command-palette:toggle'
+
+'.platform-win32 .tree-view:not([mini]), .platform-linux .tree-view:not([mini])':
+  'ctrl-3': 'command-palette:toggle'
