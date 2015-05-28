@@ -42,6 +42,7 @@
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-X': 'editor:upper-case'
   'ctrl-Y': 'editor:lower-case'
+  'alt-/': 'autocomplete-plus:activate'
 
 '.platform-win32 atom-workspace, .platform-linux atom-workspace':
   'ctrl-R': 'fuzzy-finder:toggle-file-finder'

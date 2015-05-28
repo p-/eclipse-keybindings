@@ -1,5 +1,8 @@
 # eclipse-keybindings Changelog
 
+## 0.7.0 - Autocomplete
+ * binding for Autocomplete
+
 ## 0.6.0 - Quick Access
  * binding for Quick Access
 

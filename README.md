@@ -29,7 +29,8 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 * `Ctrl-O` Show Outline (Eclipse) / File Symbols (Atom)
 * `Ctrl-Shift-X` Upper Case
 * `Ctrl-Shift-Y` Lower Case
-* `Ctrl-Shift-/` Toggle Comment (already the Atom default)
+* `Alt-/` Autocomplete (not on Mac)
+* `Ctrl-/` Toggle Comment (already the Atom default)
 
 These keybindings might conflict with keybindings of other installed Atom packages. (You can find out which ones by using the Keybinding Resolver: `Ctrl-.`)
 
