@@ -9,7 +9,7 @@ run `apm install eclipse-keybindings` from the command line.
 
 ## Supported keybindings
 
-Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
+Mac users: press `⌘` instead of `Ctrl` (same as in Eclipse on Mac).
 
 ### General
 * `Ctrl-Shift-R` Open Resource (Eclipse) / Find File (Atom)
@@ -20,11 +20,11 @@ Mac users: press `Cmd` instead of `Ctrl` (same as in Eclipse on Mac).
 
 ### Source Editor
 * `Ctrl-Shift-F` Format Code (Eclipse) / Auto Indent (Atom)
-* `Alt`-:arrow_up_small: Move line Up
-* `Alt`-:arrow_down_small: Move line Down
+* `Alt-↑` Move line Up
+* `Alt-↓` Move line Down
 * `Ctrl-L` Go to line...
 * `Ctrl-D` Delete line
-* `Ctrl-Alt`-:arrow_down_small: Duplicate lines
+* `Ctrl-Alt-↓` Duplicate lines
 * `Ctrl-Alt-J` Join lines
 * `Ctrl-O` Show Outline (Eclipse) / File Symbols (Atom)
 * `Ctrl-Shift-X` Upper Case
@@ -37,9 +37,10 @@ These keybindings might conflict with keybindings of other installed Atom packag
 ## Issues / Features
 
 ### Known issues
+* The [Emmet](https://atom.io/packages/emmet) package overwrites several keybindings used by eclipse-keybindings.
 * Some actions are also mapped to other keybindings so the eclipse keybinding won't show up next to the menu entry.
 * `Ctrl-D` is also bound to `find-and-replace:select-next`
-* `Ctrl-Shift-/` Toggle Comment is mapped to a different key combination on non-english layouts (see: [Atom Keymap Issue](https://github.com/atom/atom-keymap/issues/37)).
+* `Ctrl-/` Toggle Comment is mapped to a different key combination on non-english layouts (see: [Atom Keymap Issue](https://github.com/atom/atom-keymap/issues/37)).
 
 ### Request features
 If you request a new keybinding please specify which Atom command should be executed when the keys are pressed. The full Atom Command Palette is available by pressing `Ctrl-3`.
