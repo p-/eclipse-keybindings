@@ -1,6 +1,6 @@
 {
   "name": "eclipse-keybindings",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Eclipse keybindings like `Ctrl-Shift-F`, `Ctrl-Shift-R`, `Ctrl-L`, `Alt-↑`, ... (⌘ on Mac)",
   "repository": "https://github.com/p-/eclipse-keybindings",
   "license": "MIT",
