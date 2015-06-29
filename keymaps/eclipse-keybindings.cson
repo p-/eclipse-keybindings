@@ -19,6 +19,7 @@
   'cmd-e': 'fuzzy-finder:toggle-buffer-finder'
   'cmd-X': 'editor:upper-case'
   'cmd-Y': 'editor:lower-case'
+  'cmd-shift-p': 'bracket-matcher:go-to-matching-bracket'
 
 '.platform-darwin atom-workspace':
   'cmd-R': 'fuzzy-finder:toggle-file-finder'
@@ -43,6 +44,7 @@
   'ctrl-X': 'editor:upper-case'
   'ctrl-Y': 'editor:lower-case'
   'alt-/': 'autocomplete-plus:activate'
+  'ctrl-shift-p': 'bracket-matcher:go-to-matching-bracket'
 
 '.platform-win32 atom-workspace, .platform-linux atom-workspace':
   'ctrl-R': 'fuzzy-finder:toggle-file-finder'
