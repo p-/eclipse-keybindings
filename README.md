@@ -29,6 +29,8 @@ Mac users: press `⌘` instead of `Ctrl` (same as in Eclipse on Mac).
 * `Ctrl-O` Show Outline (Eclipse) / File Symbols (Atom)
 * `Ctrl-Shift-X` Upper Case
 * `Ctrl-Shift-Y` Lower Case
+* `Ctrl-Shift-P` Go to matching bracket
+* `Alt-Shift-↑` Select inside brackets
 * `Alt-/` Autocomplete (not on Mac)
 * `Ctrl-/` Toggle Comment (already the Atom default)
 

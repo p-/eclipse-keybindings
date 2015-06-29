@@ -7,6 +7,7 @@
 'atom-text-editor:not([mini])':
   'alt-up': 'editor:move-line-up'
   'alt-down': 'editor:move-line-down'
+  'alt-shift-up': 'bracket-matcher:select-inside-brackets'
 
 # Mac keybindings
 '.platform-darwin atom-text-editor:not([mini])':

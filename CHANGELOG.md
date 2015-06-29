@@ -1,5 +1,9 @@
 # eclipse-keybindings Changelog
 
+## 0.8.0 - Brackets
+ * binding for Go to matching bracket
+ * binding Select inside brackets
+
 ## 0.7.0 - Autocomplete
  * binding for Autocomplete
 
