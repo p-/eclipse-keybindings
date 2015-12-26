@@ -30,6 +30,7 @@ Mac users: press `⌘` instead of `Ctrl` (same as in Eclipse on Mac).
 * `Ctrl-Shift-X` Upper Case
 * `Ctrl-Shift-Y` Lower Case
 * `Ctrl-Shift-P` Go to matching bracket
+* `Ctrl-Shift-C` Toggle Comments
 * `Alt-Shift-↑` Select inside brackets
 * `Alt-/` Autocomplete (not on Mac)
 * `Ctrl-/` Toggle Comment (already the Atom default)

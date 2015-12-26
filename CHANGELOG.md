@@ -1,5 +1,8 @@
 # eclipse-keybindings Changelog
 
+## 0.9.0 - Comment
+ * alternative binding for comment/uncomment: Ctrl-Shift-C
+
 ## 0.8.0 - Brackets
  * binding for Go to matching bracket
  * binding Select inside brackets
